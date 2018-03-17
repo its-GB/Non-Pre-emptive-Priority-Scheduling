@@ -3,13 +3,7 @@ using namespace std;
 
 int main()
 {  
- /*Visit - www.programmingwithbasics.com*/
-   
-    printf("=====================================");
-    printf("\nVisit - www.programmingwithbasics.com");
-    printf("\n=====================================");
-    
-    /*
+ 
  Here Integer Variables for loop, swapping and assign value and float variable for waiting time, turn around time and Average waiting time and Average turn around time.
  */
         
