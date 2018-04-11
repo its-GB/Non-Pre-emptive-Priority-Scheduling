@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -6,7 +7,7 @@ int main()
  /*Visit - www.programmingwithbasics.com*/
    
     printf("=====================================");
-    printf("\nVisit - www.programmingwithbasics.com");
+    printf("\nNon-Pre-emptive-Priority-Scheduling");
     printf("\n=====================================");
     
     /*
@@ -132,3 +133,4 @@ int main()
  cout<<"\n\nAverage Turn Around Time: "<<avtrt<<endl; 
 
 }
+
